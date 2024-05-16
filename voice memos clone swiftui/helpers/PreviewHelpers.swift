@@ -12,7 +12,7 @@ struct PreviewHelpers {
         RecordingCellVM
             .init(id: UUID(),
                   name: "Infopark Entrance",
-                  recordingTime: "11:29 AM",
+                  recordingTime: "11:29 PM",
                   duration: "00:16"),
         RecordingCellVM
             .init(id: UUID(),
